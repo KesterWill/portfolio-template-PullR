@@ -75,10 +75,11 @@ body {
 
 .half-section {
   width: 50%;
+  background-color: var(--primary-color);
 }
 
 .avatar-container {
-  height: 100vh;
+  height: 90vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -94,6 +95,7 @@ body {
 .avatar-container h3 {
   margin: 0;
   color: var(--primary-color-dark);
+  background-color: var(--primary-color);
 }
 
 h1 {
