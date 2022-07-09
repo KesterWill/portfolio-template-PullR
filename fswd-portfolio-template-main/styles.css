@@ -218,3 +218,46 @@ footer {
   font-size: 18px;
 }
 
+. tech-icons-container {
+  color de fondo: rgba (255, 255, 255, 0.801);
+  radio de borde: 5px;
+  pantalla: flex;
+  flex-direction: columna;
+  acolchado-tapa: 40px;
+ 
+ }
+ 
+ . tech-icon-list {
+  pantalla: flex;
+  flex-direction: fila;
+  flex-wrap: envoltura;
+  justificar-contenido: espacio-entre;
+  relleno: 0px 60px;
+ }
+ 
+ . tech-icon-list-end {
+  pantalla: flex;
+  flex-direction: fila;
+  flex-wrap: envoltura;
+   justify-content: flex-start;
+ }
+ 
+ . tech-icon-item {
+  pantalla: flex;
+  flex-direction: columna;
+  margen-derecha: 80px;
+  margen-fondo: 80px;
+  align-items: centro;
+ }
+ 
+ . tech-icon-item-end {
+  pantalla: flex;
+  flex-direction: columna;
+  margen-fondo: 80px;
+  align-items: centro;
+ }
+ 
+ envergadura {
+  margen superior: 5px;
+  color: var(--color primario-oscuro);
+ }
